@@ -1,7 +1,0 @@
-Event type "HungryChild" from "Jakub" in "Bedroom 1" min: 20, hour: 3,  day: 1
-Event type "PoopedChild" from "Jakub" in "Bedroom 1" min: 35, hour: 7,  day: 1
-Event type "HungryPet" from "Kaki" in "Garage" min: 4, hour: 14,  day: 1
-Event type "HungryChild" from "Katerina" in "Garage" min: 1, hour: 16,  day: 1
-Event type "IsBroken" from "Light5" in "Garage" min: 29, hour: 21,  day: 1
-Event type "IsBroken" from "Air Condicioner 11" in "Bedroom 1" min: 16, hour: 1,  day: 2
-Event type "PoopedChild" from "Katerina" in "Garage" min: 42, hour: 4,  day: 2
