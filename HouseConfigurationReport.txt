@@ -1,0 +1,37 @@
+House
+House has 2 floor(s).
+Floor number 1 has 4 rooms: 
+Room "Garage" has 2 device(s): 
+Light5
+Light8
+Room "Kitchen" has 2 device(s): 
+Light8
+Air Condicioner 4
+Room "Hall" has 2 device(s): 
+Light6
+Air Condicioner 5
+Room "Guest room" has 2 device(s): 
+Light9
+Air Condicioner 15
+Floor number 2 has 3 rooms: 
+Room "Bedroom 1" has 2 device(s): 
+Light13
+Air Condicioner 11
+Room "Bedroom 2" has 1 device(s): 
+Light3
+Room "Bedroom 3" has 2 device(s): 
+Light14
+Air Condicioner 12
+Residents
+There are 9 inhabitants living in the house: 8 people and 1 pet(s).
+People: 
+Adult "Nasta" 
+Child "Katerina" 
+Adult "Jiri" 
+Adult "Kral" 
+Adult "Kralovna" 
+Child "Jakub" 
+Adult "Zukovec" 
+Adult "Krasula" 
+Pets: 
+Bear "Kaki" 

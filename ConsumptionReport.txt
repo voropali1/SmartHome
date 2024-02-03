@@ -1,0 +1,46 @@
+1day
+Electricity consumption
+Light5 has used 2,18 KwH electricity for today.
+Light8 has used 2,38 KwH electricity for today.
+Light8 has used 2,35 KwH electricity for today.
+Air Condicioner 4 has used 2,35 KwH electricity for today.
+Light6 has used 2,30 KwH electricity for today.
+Air Condicioner 5 has used 2,30 KwH electricity for today.
+Light9 has used 2,30 KwH electricity for today.
+Air Condicioner 15 has used 2,30 KwH electricity for today.
+Light13 has used 2,41 KwH electricity for today.
+Air Condicioner 11 has used 2,35 KwH electricity for today.
+Light3 has used 2,38 KwH electricity for today.
+Light14 has used 2,30 KwH electricity for today.
+Air Condicioner 12 has used 2,30 KwH electricity for today.
+Total electricity used by day: 30,18 KwH.
+Water consumption
+Light5 has used 0,00 litre water for today.
+Light8 has used 0,00 litre water for today.
+Light8 has used 0,00 litre water for today.
+Air Condicioner 4 has used 0,00 litre water for today.
+Light6 has used 0,00 litre water for today.
+Air Condicioner 5 has used 0,00 litre water for today.
+Light9 has used 0,00 litre water for today.
+Air Condicioner 15 has used 0,00 litre water for today.
+Light13 has used 0,00 litre water for today.
+Air Condicioner 11 has used 0,00 litre water for today.
+Light3 has used 0,00 litre water for today.
+Light14 has used 0,00 litre water for today.
+Air Condicioner 12 has used 0,00 litre water for today.
+Total water used by day: 0,00 litre.
+Gas consumption
+Light5 has used 0,00 cu. m. gas for today.
+Light8 has used 0,00 cu. m. gas for today.
+Light8 has used 0,00 cu. m. gas for today.
+Air Condicioner 4 has used 0,00 cu. m. gas for today.
+Light6 has used 0,00 cu. m. gas for today.
+Air Condicioner 5 has used 0,00 cu. m. gas for today.
+Light9 has used 0,00 cu. m. gas for today.
+Air Condicioner 15 has used 0,00 cu. m. gas for today.
+Light13 has used 0,00 cu. m. gas for today.
+Air Condicioner 11 has used 0,00 cu. m. gas for today.
+Light3 has used 0,00 cu. m. gas for today.
+Light14 has used 0,00 cu. m. gas for today.
+Air Condicioner 12 has used 0,00 cu. m. gas for today.
+Total gas used by day: 0,00 cu. m.
