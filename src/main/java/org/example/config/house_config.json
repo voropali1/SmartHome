@@ -1,0 +1,161 @@
+{
+  "sensors": [
+    "LIGHT", "TEMPERATURE"
+  ],
+  "floors": [
+    {
+      "level": 1,
+      "rooms": [
+        {
+          "name": "Children's room",
+          "sensors": ["LIGHT", "TEMPERATURE"],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light1"
+            },{
+              "type": "LIGHT",
+              "name": "Light21"
+            },
+            {
+              "type": "AIRCONDICIONER",
+              "name": "Air Condicioner 1"
+            }
+          ],
+          "persons": [
+            {
+              "type": "ADULT",
+              "name": "Alinka"
+            },
+            {
+              "type": "ADULT",
+              "name": "Nadya"
+            },
+            {
+              "type": "ADULT",
+              "name": "Natalie"
+            }
+          ],
+          "pets": [
+            {
+              "type": "BEAR",
+              "name": "Kaki"
+            }
+          ]
+        },
+        {
+          "name": "Kitchen",
+          "sensors": ["LIGHT"],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light2"
+            },{
+              "type": "LIGHT",
+              "name": "LightRR"
+            }
+          ],
+          "persons": [
+            {
+              "type": "ADULT",
+              "name": "Olga"
+            }
+          ]
+        },
+        {
+          "name": "Garage",
+          "sensors": ["LIGHT"],
+          "items": [
+            {
+              "type": "CAR",
+              "name": "Car"
+            }
+          ],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light6"
+            }
+          ],
+          "persons": [
+            {
+              "type": "ADULT",
+              "name": "Ivan"
+            }
+          ]
+        },
+        {
+          "name": "Kitchen",
+          "sensors": ["LIGHT"],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light2"
+            },
+            {
+              "type": "LIGHT",
+              "name": "LightDD2"
+            }
+          ],
+          "persons": [
+            {
+              "type": "ADULT",
+              "name": "Irina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "rooms": [
+        {
+          "name": "Bedroom",
+          "sensors": ["LIGHT","TEMPERATURE"],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light3"
+            },
+            {
+              "type": "AIRCONDICIONER",
+              "name": "Air Condicioner FF1"
+            },
+            ,
+            {
+              "type": "AIRCONDICIONER",
+              "name": "Air Condicioner AA1"
+            }
+          ],"persons": [
+          {
+            "type": "ADULT",
+            "name": "Ronaldu"
+          },
+          {
+            "type": "ADULT",
+            "name": "Velebil"
+          },
+          {
+            "type": "CHILD",
+            "name": "Jakub"
+          }
+        ]
+        },
+        {
+          "name": "Bathroom",
+          "sensors": ["LIGHT","TEMPERATURE"],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light4"
+            },
+            {
+              "type": "AIRCONDICIONER",
+              "name": "Air Condicioner JJ1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

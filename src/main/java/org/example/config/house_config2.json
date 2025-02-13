@@ -1,0 +1,161 @@
+{
+  "sensors": [
+    "LIGHT", "TEMPERATURE"
+  ],
+  "floors": [
+    {
+      "level": 1,
+      "rooms": [
+        {
+          "name": "Garage",
+          "sensors": ["LIGHT"],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light5"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Light8"
+            }
+          ],"items": [
+          {
+            "type": "CAR",
+            "name": "Mercedes"
+          },{
+            "type": "CAR",
+            "name": "BMW"
+          }
+        ],
+          "persons": [
+            {
+              "type": "ADULT",
+              "name": "Nasta"
+            },
+            {
+              "type": "CHILD",
+              "name": "Katerina"
+            },
+            {
+              "type": "ADULT",
+              "name": "Jiri"
+            }
+          ],
+          "pets": [
+            {
+              "type": "BEAR",
+              "name": "Kaki"
+            }
+          ]
+        },
+        {
+          "name": "Kitchen",
+          "sensors": ["LIGHT", "TEMPERATURE"],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light8"
+            },
+            {
+              "type": "AIRCONDICIONER",
+              "name": "Air Condicioner 4"
+            }
+          ]
+        },
+        {
+          "name": "Hall",
+          "sensors": ["LIGHT", "TEMPERATURE"],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light6"
+            },
+            {
+              "type": "AIRCONDICIONER",
+              "name": "Air Condicioner 5"
+            }
+          ]
+        },
+        {
+          "name": "Guest room",
+          "sensors": ["LIGHT", "TEMPERATURE"],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light9"
+            },
+            {
+              "type": "AIRCONDICIONER",
+              "name": "Air Condicioner 15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "rooms": [
+        {
+          "name": "Bedroom 1",
+          "sensors": ["LIGHT", "TEMPERATURE"],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light13"
+            },
+            {
+              "type": "AIRCONDICIONER",
+              "name": "Air Condicioner 11"
+            }
+          ],"persons": [
+          {
+            "type": "ADULT",
+            "name": "Kral"
+          },
+          {
+            "type": "ADULT",
+            "name": "Kralovna"
+          },
+          {
+            "type": "CHILD",
+            "name": "Jakub"
+          }
+        ]
+        },
+        {
+          "name": "Bedroom 2",
+          "sensors": ["LIGHT"],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light3"
+            }
+          ],"persons": [
+          {
+            "type": "ADULT",
+            "name": "Zukovec"
+          },
+          {
+            "type": "ADULT",
+            "name": "Krasula"
+          }
+        ]
+        },
+        {
+          "name": "Bedroom 3",
+          "sensors": ["LIGHT", "TEMPERATURE"],
+          "devices": [
+            {
+              "type": "LIGHT",
+              "name": "Light14"
+            },
+            {
+              "type": "AIRCONDICIONER",
+              "name": "Air Condicioner 12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
