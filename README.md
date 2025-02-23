@@ -75,6 +75,32 @@ The system generates multiple reports:
 
 ![1](diagrams_and_description/classDiagram2.png)
 
+## ▶️ How to Run
+
+1. **Clone the repository**  
+   Clone the repository to your local machine using **IntelliJ IDEA**:
+   - Go to **File** → **New** → **Project from Version Control**, and paste the repository link: `https://github.com/voropali1/smart_home.git`.
+
+2. **Run the project**  
+   To run the project:
+   - In **IntelliJ IDEA**, find the **Main** class, then click the **Run** button.
+
+3. **View logs and reports**  
+   - **Logs** will be displayed in the **Run** panel at the bottom of the IntelliJ IDEA window.
+   - **Reports** can be found in the `smart_home` folder, located at the bottom of your project directory.
+
+
+## 📌 Future Improvements
+
+✅ Implement external sensors
+
+✅ Improve the graphical representation of reports
+
+✅ Add more device types and improve device integration
+
+
+### ✍ Developed with ❤️ by Alina Voropaeva
+
 
 
 
