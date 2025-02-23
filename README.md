@@ -99,7 +99,7 @@ The system generates multiple reports:
 ✅ Add more device types and improve device integration
 
 
-### ✍ Developed with ❤️ by Alina Voropaeva
+### Developed with ❤️ by Alina Voropaeva
 
 
 
