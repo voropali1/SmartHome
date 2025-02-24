@@ -4,7 +4,7 @@
 
 This project is a Smart Home simulation developed using various design patterns. The simulation models household activities, device usage, energy consumption, and interactions between residents, pets, and appliances.
 
-## 🚀 Features
+## 🚀 Features 
 
 - 🏠 **Simulated home environment**: House, rooms, floors, sensors, appliances, residents, vehicles, and pets.
 
